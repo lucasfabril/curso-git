@@ -6,3 +6,5 @@ Zuko
 Iroh
 Mako
 Korra
+Asami
+Bolin
