@@ -6,5 +6,7 @@ Zuko
 Iroh
 Mako
 Korra
+Asami
+Bolin
 Appa
 Momo
